@@ -1,0 +1,42 @@
+header{
+    background-color: beige;
+}
+main{
+    background-color: darkgray;
+    padding: 20px;
+}
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    height: 50px;
+}
+footer p{
+    margin: 0;
+}
+h1{
+    color: blue;
+    font-size: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    width: 60%;
+    float: left;
+    text-align: center;
+}
+img{
+    width: 20%;
+}
+h2{
+    color: green;
+    text-align: center;
+    font-size: 35px;
+    letter-spacing: 5px;
+    
+}
+p, input, button{
+    font-family: cursive;
+    font-size: 20px;
+}
+div{
+    width: 80%;
+    margin: auto;
+}
